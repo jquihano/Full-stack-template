@@ -6,4 +6,10 @@
 3. Create .gitignore file
     => add "node_modules" in .gitignore file
 
-4.
+4. Declare variables
+
+5. Connect to Mongodb, create .env file and add the connection string.
+    - Setup actual connection method to the DB_STRING
+
+6. Create Port
+    - Test Mongodb and Port connection
