@@ -1,0 +1,9 @@
+1. Initialize npm and install dependencies
+ => npm i express, dotenv, cors, mongodb, ejs, nodemon --save-dev
+
+2. Require dependencies
+
+3. Create .gitignore file
+    => add "node_modules" in .gitignore file
+
+4.
