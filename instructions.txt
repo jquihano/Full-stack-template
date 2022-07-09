@@ -14,4 +14,6 @@
 6. Create Port
     - Test Mongodb and Port connection
 
-7.
+7. Set middleware - tools that help data flow back and forth
+    - reading and formatting data
+
