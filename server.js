@@ -14,4 +14,8 @@ MongoClient.connect(dbConnectionString)
         console.log('Connected to database')
         db = client.db(dbName)
         collection = db.collection('quotes')
-    })
+    });
+
+app.listen(process.env.PORT || PORT, () => {
+    console.log(`Server is running on port`)
+});
