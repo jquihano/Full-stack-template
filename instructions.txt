@@ -22,3 +22,5 @@
 9. From root, init local git repo and commit
 
 10. Create Heroku app
+- remove .env from gitignore from Heroku
+- Can also input manually in Heroku
