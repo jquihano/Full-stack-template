@@ -17,3 +17,8 @@
 7. Set middleware - tools that help data flow back and forth
     - reading and formatting data
 
+8. Create Public views and folders - add main.js and style.css to public and index.ejs to Views
+
+9. From root, init local git repo and commit
+
+10. Create Heroku app
